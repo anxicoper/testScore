@@ -67,3 +67,6 @@ table {
   tr:nth-child(even) {
     background-color: #eeeeee;
   }
+  .validation {
+    color: red;
+}
